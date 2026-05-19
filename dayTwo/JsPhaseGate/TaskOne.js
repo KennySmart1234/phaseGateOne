@@ -1,5 +1,5 @@
 
-let prompt = require("promt-sync")();
+let prompt = require("prompt-sync")();
 let input = prompt("Enter your name: ")
 
 
