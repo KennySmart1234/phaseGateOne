@@ -4,10 +4,10 @@ public class leveFive{
 
     public static int [] negativeNumber(int [] number){
     
-    for(int count = 1; count < number.length -1;  count++){
+    for(int count = 0; count < number.length -1;  count++){
     
-            if(number[count + 1] < 0){
-              number[count + 1] = 0;  
+            if(number[count] < 0){
+              number[count] = 0;  
             
             }
             
