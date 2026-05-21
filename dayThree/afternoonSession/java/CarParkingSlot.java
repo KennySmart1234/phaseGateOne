@@ -2,7 +2,8 @@
 
 public class CarParkingSlot{
     
-    public static String parkingSpace(int [] emptySlot){
+    public static String park
+    ingSpace(int [] emptySlot){
     
         if(emptySlot == 20){ }
               return true;      
